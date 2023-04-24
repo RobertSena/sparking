@@ -4,10 +4,10 @@
 // $senha = 'tN3JLRmxF7wbXK';
 // $dbname = 'epiz_33943789_sparking';
 
-    $servidor = 'localhost';
-    $usuario = 'root';
-    $senha = '';
-    $dbname = 'sparking';
+    $servidor = 'robertweb-server.mysql.database.azure.com';
+    $usuario = 'vnhgivytnh';
+    $senha = 'UXP467F573AM7424$';
+    $dbname = ' robertweb-database';
 
     $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
 ?>
